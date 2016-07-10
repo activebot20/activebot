@@ -257,7 +257,7 @@ function create_config( )
 An advanced administration bot based on TG-CLI written in Lua
 
 Github:
-https://github.com/hafez16/mega-shield
+https://github.com/activebot20/activebot
 
 Admins:
 @best_boy2  [eDeveloper]
